@@ -4,7 +4,6 @@
 
 Skills: 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-7D4698?style=for-the-badge&logo=Agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0078D7?style=for-the-badge&logo=Scrum&logoColor=white)
 ![Unit Economy](https://img.shields.io/badge/UnitEconomy-FF1B2D?style=for-the-badge&logo=UnitEconomy&logoColor=white)
