@@ -9,8 +9,5 @@ Skills: Figma / Agile / Scrum / Tilda / Lean Canvas / SJM / CostDev /  MVP / Г�
 - 📫 How to reach me: https://t.me/archim_archim 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aleksandr Archi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/_aleksandr_archi_?igshid=NGVhN2U2NjQ0Yg==/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/_aleksandr_archi_?igshid=NGVhN2U2NjQ0Yg==/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandr Archi&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/Aleksandr Archi)  
