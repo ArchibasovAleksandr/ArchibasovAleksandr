@@ -12,3 +12,4 @@
 ![CJM](https://img.shields.io/badge/CJM-%233B4D98.svg?style=for-the-badge&logo=CJM&logoColor=white)
 ![Road map](https://img.shields.io/badge/Roadmap-white?style=for-the-badge&logo=Roadmap&logoColor=0078D4)
 ![Lean Canvas](https://img.shields.io/badge/LeanCanvas-0AC18E?style=for-the-badge&logo=LeanCanvas&logoColor=white)
+![СustDev](https://img.shields.io/badge/СustDev-EAB300?style=for-the-badge&logo=СustDev&logoColor=white)
